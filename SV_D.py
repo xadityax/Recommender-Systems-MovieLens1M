@@ -2,7 +2,7 @@
 """
 Created on sat Nov 21 18:09:37 2020
 
-@author: Jalaj
+@author: Aditya
 """
 """
     A Recommender System model based on the Singular Value Decomposition concepts.
