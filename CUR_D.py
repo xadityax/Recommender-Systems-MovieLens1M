@@ -16,7 +16,7 @@ from sklearn.metrics import mean_squared_error
 
 def C_1_U_1_R(k):
     """
-    performs the CUR decomposition on the user matrix and stores them as numpy arrays
+    performs the CUR decomposition on the user matrix and stores them as numpy arrays.
 
     Parameters
     ----------
